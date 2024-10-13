@@ -1,7 +1,6 @@
 /* styles.css */
 body {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; /* Set your image path here */
-    background-image: url(../../images/im1.webp);
     background-size: cover; /* Cover the entire viewport */
     background-position: center; /* Center the image */
     background-repeat: no-repeat; /* Do not repeat the image */
@@ -11,6 +10,7 @@ body {
     display: flex;
     justify-content: center; /* Center horizontally */
     align-items: center; /* Center vertically */
+    background-color: #2c3e50;
 }
 
 /* Containers */
